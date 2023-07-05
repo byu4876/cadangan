@@ -1,15 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="Okezone-TV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Okezone-TV.png " group-title="Lokal ",Okezone TV
-http://202.147.204.118/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="Celebrities TV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Celebrities-TV.png " group-title="Lokal ",Celebrities TV
-http://202.147.204.118/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -47,7 +38,10 @@ http://202.147.204.118/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/trans-7.png " group-title="Lokal ",Trans 7
 http://202.147.204.118/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="Lokal ",SCTV
+http://202.147.204.118/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal ",INDOSIAR
