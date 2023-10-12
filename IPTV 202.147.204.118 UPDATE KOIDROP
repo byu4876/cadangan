@@ -20,9 +20,11 @@
 
 #EXTM3U 
 
-#EXTINF:0 group-title="Lokal" tvg-logo="https://s.id/1d1HB ",Bein sports 2
-#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
-https://sport.livedoomovies.com:4431/02_epl20_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="INDONESIA" group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
