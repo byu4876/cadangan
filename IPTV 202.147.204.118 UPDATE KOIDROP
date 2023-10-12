@@ -24,6 +24,11 @@
 #EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
 https://sport.livedoomovies.com:4431/02_epl20_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
+#EXTM3U 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="Lokal ",RCTI
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
 
