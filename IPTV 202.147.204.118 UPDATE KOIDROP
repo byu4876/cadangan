@@ -19,6 +19,14 @@
 
 
 #EXTM3U 
+
+#EXTINF:0 group-title="Lokal" tvg-logo="https://s.id/1d1HB ",Bein sports 2
+#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
+https://sport.livedoomovies.com:4431/02_epl3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="Lokal ",RCTI
